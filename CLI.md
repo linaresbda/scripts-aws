@@ -5,10 +5,10 @@
 aws sts get-caller-identity
 ```
 *output:*
-``
+```
 {
     "Account": "***************4762", 
     "UserId": "********************O5HQ", 
     "Arn": "arn:aws:iam::****:user/*****"
 }
-``
+```
