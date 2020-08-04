@@ -1,5 +1,11 @@
 # aws
 
+## EC2
+*SOLUCIONAR ERROR  de known_hosts*
+```
+$ ssh-keygen -R ec2-192-168-1-1.compute-1.amazonaws.com
+```
+
 ## RDS
   ### Importar/Exportar base de datos
   
